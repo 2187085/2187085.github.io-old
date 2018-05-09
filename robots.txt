@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /A/
+Disallow: /B/
+Disallow: /C/
+Disallow: /d/
+Disallow: /1.jpg
+
+Sitemap: https://www.2187085.github.io/sitemap.xml
