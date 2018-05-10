@@ -1,8 +1,4 @@
 User-agent: *
-Disallow: /A/
-Disallow: /B/
-Disallow: /C/
-Disallow: /d/
-Disallow: /1.jpg
+Disallow: /Favicon.ico
 
 Sitemap: https://www.2187085.github.io/sitemap.xml
